@@ -1,0 +1,13 @@
+# Rust
+target/
+**/*.rs.bk
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
