@@ -1,5 +1,5 @@
 mod cli;
-//mod scanner;
+mod scanners;
 //mod parser;
 //mod generator;
 //mod git;

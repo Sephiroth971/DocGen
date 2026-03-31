@@ -1,6 +1,6 @@
 use clap::{Parser, Subcommand};
 
-use crate::scanner::{detect_project_type, ProjectType};
+use crate::scanners::{detect_project_type, ProjectType};
 
 #[derive(Parser)]
 #[command(name = "docgen")]
